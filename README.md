@@ -1,3 +1,6 @@
+<img src="banner.png" />
+
+
 ## Hi, I’m Anish 👋
 
 🎓 MS Computer Science Student  
