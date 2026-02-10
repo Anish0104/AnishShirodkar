@@ -16,7 +16,12 @@
 - Building end-to-end ML projects
 
 ### Tech Stack
-Python • SQL • Pandas • NumPy • scikit-learn • Flask • Git/GitHub
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,sql,git,github,flask,jupyter&theme=dark" />
+</p>
+
 
 ### Projects
 - Plant Disease Prediction (ML classification)
