@@ -21,23 +21,19 @@
   <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,sql,git,github,flask,jupyter&theme=dark" />
 </p>
 
-
 ### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/Anish0104/Plant_Disease_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=Plant_Disease_Prediction&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Anish0104/ml-mini-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-mini-projects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Anish0104/weatherwise-future-forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=weatherwise-future-forecast&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Anish0104/ml-notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-notes&theme=tokyonight" />
-  </a>
-</p>
+- 🧠 [Plant Disease Prediction](https://github.com/Anish0104/Plant_Disease_Prediction)  
+  Machine learning image classification for plant health detection.
+
+- 📈 [ML Mini Projects](https://github.com/Anish0104/ml-mini-projects)  
+  Core ML notebooks covering classification, regression, and clustering.
+
+- 🌦 [WeatherWise Forecast](https://github.com/Anish0104/weatherwise-future-forecast)  
+  Weather prediction using historical data and ML models.
+
+- 📚 [ML Notes](https://github.com/Anish0104/ml-notes)  
+  Personal notes on machine learning concepts and examples.
 
 
 
@@ -46,6 +42,5 @@
 
 📫 LinkedIn: www.linkedin.com/in/anish-shirodkar-a208452a9
 
-![snake](https://raw.githubusercontent.com/Anish0104/github-snake/output/github-contribution-grid-snake.svg)
 
 # AnishShirodkar
