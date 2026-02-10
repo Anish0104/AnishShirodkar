@@ -21,20 +21,15 @@
   <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,sql,git,github,flask,jupyter&theme=dark" />
 </p>
 
+
 ### 🚀 Featured Projects
 
-- 🧠 [Plant Disease Prediction](https://github.com/Anish0104/Plant_Disease_Prediction)  
-  Machine learning image classification for plant health detection.
-
-- 📈 [ML Mini Projects](https://github.com/Anish0104/ml-mini-projects)  
-  Core ML notebooks covering classification, regression, and clustering.
-
-- 🌦 [WeatherWise Forecast](https://github.com/Anish0104/weatherwise-future-forecast)  
-  Weather prediction using historical data and ML models.
-
-- 📚 [ML Notes](https://github.com/Anish0104/ml-notes)  
-  Personal notes on machine learning concepts and examples.
-
+| Project | What it is | Tech |
+|---|---|---|
+| 🧠 [Plant Disease Prediction](https://github.com/Anish0104/Plant_Disease_Prediction) | Leaf image disease classification | Python, scikit-learn, Jupyter |
+| 🌦 [WeatherWise Forecast](https://github.com/Anish0104/weatherwise-future-forecast) | Forecasting using historical weather data | Python, Pandas, ML |
+| 📈 [ML Mini Projects](https://github.com/Anish0104/ml-mini-projects) | ML fundamentals notebooks | NumPy, Pandas, scikit-learn |
+| 📚 [ML Notes](https://github.com/Anish0104/ml-notes) | Notes + code snippets | Markdown, Python |
 
 
  
