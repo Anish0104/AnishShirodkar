@@ -36,4 +36,7 @@
 🎯 Open to internships: Summer 2026  
 
 📫 LinkedIn: www.linkedin.com/in/anish-shirodkar-a208452a9
+
+![snake](https://raw.githubusercontent.com/Anish0104/github-snake/output/github-contribution-grid-snake.svg)
+
 # AnishShirodkar
