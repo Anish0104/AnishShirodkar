@@ -15,7 +15,6 @@
 - Data analysis with Python & SQL
 - Building end-to-end ML projects
 
-### Tech Stack
 ### 🛠 Tech Stack
 
 <p>
@@ -23,10 +22,16 @@
 </p>
 
 
-### Projects
-- Plant Disease Prediction (ML classification)
-- Weather Forecasting
-- Trading Strategy Optimization
+### 🚀 Featured Projects
+
+[![Plant Disease](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=Plant_Disease_Prediction&theme=tokyonight)](https://github.com/Anish0104/Plant_Disease_Prediction)
+
+[![ML Mini](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-mini-projects&theme=tokyonight)](https://github.com/Anish0104/ml-mini-projects)
+
+[![Weather](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=weatherwise-future-forecast&theme=tokyonight)](https://github.com/Anish0104/weatherwise-future-forecast)
+
+[![ML Notes](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-notes&theme=tokyonight)](https://github.com/Anish0104/ml-notes)
+
  
 🎯 Open to internships: Summer 2026  
 
