@@ -24,13 +24,21 @@
 
 ### 🚀 Featured Projects
 
-[![Plant Disease Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=Plant_Disease_Prediction&theme=tokyonight)](https://github.com/Anish0104/Plant_Disease_Prediction)
+<p align="left">
+  <a href="https://github.com/Anish0104/Plant_Disease_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=Plant_Disease_Prediction&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Anish0104/ml-mini-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-mini-projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Anish0104/weatherwise-future-forecast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=weatherwise-future-forecast&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Anish0104/ml-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-notes&theme=tokyonight" />
+  </a>
+</p>
 
-[![ML Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-mini-projects&theme=tokyonight)](https://github.com/Anish0104/ml-mini-projects)
-
-[![WeatherWise Forecast](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=weatherwise-future-forecast&theme=tokyonight)](https://github.com/Anish0104/weatherwise-future-forecast)
-
-[![ML Notes](https://github-readme-stats.vercel.app/api/pin/?username=Anish0104&repo=ml-notes&theme=tokyonight)](https://github.com/Anish0104/ml-notes)
 
 
  
