@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Anish Shirodkar banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Anish Shirodkar banner" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./divider.svg" width="100%" />
+  <img src="./assets/divider.svg" width="100%" />
 </p>
 
 ---
@@ -50,16 +50,16 @@ Strong across CV, RAG, LLM apps, IoT ML
 
 Patent-backed real-world system
 
-</td> </tr> </table> <p align="center"> <img src="./divider.svg" width="100%" /> </p>
+</td> </tr> </table> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
 ⚒ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,postgres,git,aws,firebase&perline=6" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/LLaMA_3.1-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ByteTrack-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/> </p> <p align="center"> <img src="./divider.svg" width="100%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,postgres,git,aws,firebase&perline=6" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/LLaMA_3.1-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ByteTrack-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/> </p> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
 ✨ Featured Projects
 <table> <tr> <td width="50%" valign="top">
 🚗 VTrack
 
-Real-Time Traffic Analysis
+Real-Time Traffic Analysis System
 
-~25–30 FPS
+~25–30 FPS pipeline
 
 ~90–95% accuracy
 
@@ -72,7 +72,7 @@ Full-stack deployment
 
 AI Career Assistant
 
-Resume ↔ Job matching
+Resume ↔ Job skill matching
 
 Multi-turn AI interview
 
@@ -87,7 +87,7 @@ RAG Documentation Assistant
 
 ChromaDB + LLaMA
 
-Grounded responses
+Source-grounded responses
 
 </td> <td width="50%" valign="top">
 🌦 Weather System
@@ -100,9 +100,9 @@ IoT → Cloud pipeline
 
 Government-recognized
 
-</td> </tr> </table> <p align="center"> <img src="./divider.svg" width="100%" /> </p>
+</td> </tr> </table> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
 📈 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=transparent&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=Anish0104&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish0104&theme=transparent" /> </p> <p align="center"> <img src="./divider.svg" width="100%" /> </p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=transparent&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=Anish0104&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish0104&theme=transparent" /> </p> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
 🏆 Highlights
 
 🎓 MS CS @ Rutgers
