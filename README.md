@@ -1,81 +1,118 @@
-<!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="assets/banner.svg" />
-</p>
-
-<h1 align="center">Anish Shirodkar</h1>
-<h3 align="center">AI / ML Engineer • Computer Vision • RAG • LLM Systems</h3>
-
-<p align="center">
-  Building production-ready AI systems from model → deployment
-</p>
-
----
-
-## 🚀 Featured Work
-
-### 🚗 VTrack — Real-Time Traffic Intelligence
-- 25–30 FPS real-time CV pipeline  
-- 90–95% vehicle count accuracy  
-- YOLOv8 + ByteTrack + FastAPI + React  
-- Deployed on GPU (Hugging Face Spaces + Docker)
-
----
-
-### 🧠 SkillGap — AI Career Assistant
-- Resume ↔ Job skill gap analysis  
-- Multi-turn AI interview simulator  
-- Built with Gemini API + Next.js  
-
----
-
-### 📄 DocPilot — RAG Documentation Assistant
-- RAG over 500+ pages of ML docs  
-- ChromaDB + Sentence Transformers + LLaMA 3.1  
-- Low-latency, grounded responses  
-
----
-
-### 🌦️ Weather Forecasting System (Patent)
-- Attention-LSTM (~85% accuracy)  
-- IoT → Cloud pipeline  
-- Government-recognized AI patent  
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,aws,git" />
+  <img src="./assets/banner.svg" alt="Anish Shirodkar banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/Transformers-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA-black?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&center=true&vCenter=true&width=900&lines=Computer+Vision+%7C+RAG+Pipelines+%7C+LLM+Applications;Building+real-world+AI+systems+from+model+to+deployment;FastAPI+%7C+Next.js+%7C+PyTorch+%7C+ChromaDB+%7C+Docker;Open+to+Summer+2026+AI%2FML%2FNLP+Internships" />
+</p>
+
+<p align="center">
+  <a href="mailto:shirodkaranish3@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anish-shirodkar-a208452a9"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://anishshirodkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Anish0104"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## ✦ Profile Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=Anish0104&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="56%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish0104&theme=tokyo-night&hide_border=true"/>
-</p>
+```yaml
+name: Anish Shirodkar
+role: AI / ML Engineer
+education: M.S. Computer Science @ Rutgers University
+specialties:
+  - Computer Vision Systems
+  - Retrieval-Augmented Generation
+  - Full-Stack LLM Applications
+  - Model Deployment and Inference
+current_focus:
+  - Real-time traffic analytics (YOLOv8 + ByteTrack)
+  - AI career assistant (Gemini + Supabase)
+  - RAG systems over large technical documentation
+status: Open to Summer 2026 internships
+</td> <td width="44%" valign="top">
+🚀 Why this profile stands out
 
----
+Built end-to-end AI systems, not just models
 
-<p align="center">
-  ⭐ Focused on building scalable AI systems from research → production
-</p>
+Combines ML + backend + deployment + UI
 
-<p align="center">
-  <img src="assets/divider.svg"/>
-</p>
+Strong across CV, RAG, LLM apps, IoT ML
+
+Patent-backed real-world system
+
+</td> </tr> </table> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
+⚒ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,postgres,git,aws,firebase&perline=6" /> </p> <p align="center"> <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/LLaMA_3.1-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ByteTrack-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/> </p> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
+✨ Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🚗 VTrack
+
+Real-Time Traffic Analysis System
+
+~25–30 FPS pipeline
+
+~90–95% accuracy
+
+YOLOv8 + ByteTrack
+
+Full-stack deployment
+
+</td> <td width="50%" valign="top">
+🧠 SkillGap
+
+AI Career Assistant
+
+Resume ↔ Job skill matching
+
+Multi-turn AI interview
+
+Gemini + Next.js
+
+</td> </tr> <tr> <td width="50%" valign="top">
+📄 DocPilot
+
+RAG Documentation Assistant
+
+500+ pages indexed
+
+ChromaDB + LLaMA
+
+Source-grounded responses
+
+</td> <td width="50%" valign="top">
+🌦 Weather System
+
+Patent-backed ML System
+
+~85% accuracy
+
+IoT → Cloud pipeline
+
+Government-recognized
+
+</td> </tr> </table> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
+📈 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=transparent&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=Anish0104&theme=transparent&hide_border=true" /> </p> <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish0104&theme=transparent" /> </p> <p align="center"> <img src="./assets/divider.svg" width="100%" /> </p>
+🏆 Highlights
+
+🎓 MS CS @ Rutgers
+
+📜 Patent-backed AI system
+
+🤖 CV + RAG + LLM systems
+
+🚀 End-to-end deployments
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Anish0104&theme=algolia&no-frame=true&no-bg=true&column=4" /> </p>
+🤝 Connect
+<p align="center"> <a href="https://www.linkedin.com/in/anish-shirodkar-a208452a9"> <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge"/> </a> <a href="https://anishshirodkar.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge"/> </a> <a href="mailto:shirodkaranish3@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-111827?style=for-the-badge"/> </a> </p> <p align="center"> <strong>Building AI systems that actually ship.</strong> </p> ```
