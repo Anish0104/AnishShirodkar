@@ -1,0 +1,13 @@
+<svg width="600" height="320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#1e293b"/>
+<stop offset="100%" stop-color="#0f172a"/>
+</linearGradient>
+</defs>
+<rect width="600" height="320" rx="24" fill="url(#g1)"/>
+<text x="40" y="90" fill="#38bdf8" font-size="16">Computer Vision</text>
+<text x="40" y="140" fill="white" font-size="28" font-weight="bold">VTrack</text>
+<text x="40" y="190" fill="#94a3b8" font-size="16">Real-time traffic analytics</text>
+<text x="40" y="240" fill="#22c55e" font-size="14">YOLOv8 • ByteTrack • FastAPI</text>
+</svg>
