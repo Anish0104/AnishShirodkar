@@ -20,14 +20,14 @@
 
 ## ✦ About
 
-I build production-ready AI systems that go beyond models into **real, deployed products**.
+I build production-ready AI systems that go beyond models into real, deployed products.
 
 My work focuses on:
-- Computer Vision systems with real-time inference  
-- Retrieval-Augmented Generation (RAG) pipelines  
-- Full-stack LLM applications with deployed backends  
+- Computer Vision systems with real-time inference
+- Retrieval-Augmented Generation pipelines
+- Full-stack LLM applications with deployed backends
 
-I enjoy designing systems that connect **models, APIs, and user-facing interfaces** into cohesive, scalable products.
+I design systems that combine ML models, APIs, and user-facing interfaces into scalable products.
 
 ---
 
@@ -37,7 +37,7 @@ I enjoy designing systems that connect **models, APIs, and user-facing interface
 
 ---
 
-## ⚒ Tech Stack
+## ⚒ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,postgres,git,aws,firebase&perline=6" />
@@ -54,6 +54,8 @@ I enjoy designing systems that connect **models, APIs, and user-facing interface
   <img src="https://img.shields.io/badge/ByteTrack-111827?style=for-the-badge"/>
 </p>
 
+---
+
 <p align="center">
   <img src="./divider.svg" width="100%" />
 </p>
@@ -66,11 +68,14 @@ I enjoy designing systems that connect **models, APIs, and user-facing interface
 <tr>
 <td width="50%" valign="top">
 
+<img src="./vtrack_card.svg" width="100%" />
+<br/><br/>
+
 ### 🚗 VTrack  
 Real-Time Traffic Analysis  
 
 - ~25–30 FPS pipeline  
-- ~90–95% accuracy  
+- ~90–95% vehicle count accuracy  
 - YOLOv8 + ByteTrack  
 - Full-stack deployment  
 
@@ -78,11 +83,14 @@ Real-Time Traffic Analysis
 
 <td width="50%" valign="top">
 
+<img src="./skillgap_card.svg" width="100%" />
+<br/><br/>
+
 ### 🧠 SkillGap  
 AI Career Assistant  
 
 - Resume ↔ Job matching  
-- Multi-turn AI interview  
+- Multi-turn AI interview simulator  
 - Gemini + Next.js  
 
 </td>
@@ -90,6 +98,9 @@ AI Career Assistant
 
 <tr>
 <td width="50%" valign="top">
+
+<img src="./docpilot_card.svg" width="100%" />
+<br/><br/>
 
 ### 📄 DocPilot  
 RAG Documentation Assistant  
@@ -102,10 +113,13 @@ RAG Documentation Assistant
 
 <td width="50%" valign="top">
 
+<img src="./weather_card.svg" width="100%" />
+<br/><br/>
+
 ### 🌦 Weather System  
 Patent-backed ML System  
 
-- ~85% accuracy  
+- ~85% forecasting accuracy  
 - IoT → Cloud pipeline  
 - Government-recognized  
 
