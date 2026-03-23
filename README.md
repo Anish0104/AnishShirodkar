@@ -169,8 +169,6 @@ Patent-backed ML System
 </p>
 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish0104&theme=github_dark)](https://github.com/Anish0104)
-
 <p align="center">
   <strong>Building AI systems that actually ship.</strong>
 </p>
