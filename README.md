@@ -10,26 +10,18 @@
 
 ## ✨ About
 
-I build end-to-end AI systems that move from research concepts to deployed, production-ready applications.
+## ✨ About
 
-My work sits at the intersection of machine learning, systems design, and product engineering, where models are not just trained, but integrated into real-world workflows.
+I build end-to-end AI systems that go from models to deployed, production-ready applications.
 
-I specialize in:
-* Designing **RAG pipelines** with vector databases and LLM orchestration  
-* Building **real-time computer vision systems** with tracking and inference pipelines  
-* Developing **full-stack AI applications** with scalable backends and intuitive interfaces  
+Focused on:
+* RAG pipelines and LLM applications  
+* Real-time computer vision systems  
+* Full-stack AI products  
 
-I am also an **open-source contributor** and submitted proposals for **Google Summer of Code 2026**, including contributing to the **DeepChem** codebase as part of the application process.
+Open-source contributor with **GSoC 2026 proposals**, including contributions to the **DeepChem** codebase.
 
-I’ve worked on projects ranging from AI documentation assistants to intelligent career platforms and large-scale forecasting systems.
-
-Currently exploring:
-* Agentic AI systems  
-* LLM infrastructure and evaluation  
-* Scalable ML system design  
-
-I focus on building AI systems that are not just intelligent, but usable, reliable, and shipped.
-
+Building AI systems that actually ship.
 <img src="divider.svg" width="100%" />
 
 ## 🛠️ Tech Arsenal
