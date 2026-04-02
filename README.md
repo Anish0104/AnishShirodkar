@@ -8,10 +8,6 @@
 
 ## ✨ About
 
-## ✨ About
-
-## ✨ About
-
 I build end-to-end AI systems that go from models to deployed, production-ready applications.
 
 Focused on:
