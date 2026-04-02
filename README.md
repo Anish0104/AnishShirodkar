@@ -126,11 +126,13 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 
 <img src="divider.svg" width="100%" />
 
+<img src="divider.svg" width="100%" />
+
 ## 📈 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/Anish0104">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/Anish0104">
@@ -140,31 +142,21 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 
 <img src="divider.svg" width="100%" />
 
-<img src="divider.svg" width="100%" />
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Anish0104">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true&hide_bg=true&v=1" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/Anish0104">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
-  </a>
-</div>
-
-<img src="divider.svg" width="100%" />
-
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <br/>
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anish-shirodkar/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL_HERE@example.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Portfolio](https://skillicons.dev/icons?i=vercel)](https://anishshirodkar.me/)
+  <a href="https://www.linkedin.com/in/anish-shirodkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL_HERE@example.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://anishshirodkar.me/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-6B21A8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <br/><br/>
   <p><b>Building AI systems that actually ship.</b></p>
 </div>
