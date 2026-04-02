@@ -108,12 +108,18 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 
 <img src="divider.svg" width="100%" />
 
+<img src="divider.svg" width="100%" />
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" />
+  <a href="https://github.com/Anish0104">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/Anish0104">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 <img src="divider.svg" width="100%" />
@@ -121,16 +127,20 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 ## 🤝 Connect
 
 <div align="center">
-  <a href="mailto:avs181@@scarletmail.rutgers.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <p><i>Let's build something great together.</i></p>
+  <br/>
+  <a href="mailto:YOUR_EMAIL_HERE@example.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anish-shirodkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://anishshirodkar.me/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<br/>
+<br/><br/>
 <p align="center"><b>Building AI systems that actually ship.</b></p>
