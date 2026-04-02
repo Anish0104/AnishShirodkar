@@ -130,10 +130,9 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/Anish0104">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true" alt="Top Languages" />
-  </a>
+<a href="https://github.com/Anish0104">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anish0104&layout=compact&theme=tokyonight&hide_border=true&hide_bg=true&v=2" alt="Top Languages" />
+</a>
   <br/>
   <a href="https://github.com/Anish0104">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak" />
