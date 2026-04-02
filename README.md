@@ -18,6 +18,7 @@ Focused on:
 Open-source contributor with **GSoC 2026 proposals**, including contributions to the **DeepChem** codebase.
 
 Building AI systems that actually ship.
+
 <img src="divider.svg" width="100%" />
 
 ## 🛠️ Tech Arsenal
