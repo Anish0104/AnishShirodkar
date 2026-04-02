@@ -8,14 +8,18 @@
 
 ## ✨ About
 
+## ✨ About
+
 I build end-to-end AI systems that move from research concepts to deployed, production-ready applications.
 
-My work sits at the intersection of machine learning, systems design, and product engineering — where models are not just trained, but integrated into real-world workflows.
+My work sits at the intersection of machine learning, systems design, and product engineering, where models are not just trained, but integrated into real-world workflows.
 
 I specialize in:
 * Designing **RAG pipelines** with vector databases and LLM orchestration  
-* Building **real-time computer vision systems** (YOLOv8, tracking, inference pipelines)  
+* Building **real-time computer vision systems** with tracking and inference pipelines  
 * Developing **full-stack AI applications** with scalable backends and intuitive interfaces  
+
+I am also an **open-source contributor** and submitted proposals for **Google Summer of Code 2026**, including contributing to the **DeepChem** codebase as part of the application process.
 
 I’ve worked on projects ranging from AI documentation assistants to intelligent career platforms and large-scale forecasting systems.
 
@@ -24,7 +28,7 @@ Currently exploring:
 * LLM infrastructure and evaluation  
 * Scalable ML system design  
 
-I focus on building AI systems that are not just intelligent — but usable, reliable, and shipped.
+I focus on building AI systems that are not just intelligent, but usable, reliable, and shipped.
 
 <img src="divider.svg" width="100%" />
 
