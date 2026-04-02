@@ -106,9 +106,13 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 
 <img src="divider.svg" width="100%" />
 
+<img src="divider.svg" width="100%" />
+
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -117,8 +121,15 @@ I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on b
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anish-shirodkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://anishshirodkar.me/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:avs181@@scarletmail.rutgers.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/anish-shirodkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://anishshirodkar.me/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
