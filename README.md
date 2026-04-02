@@ -1,174 +1,93 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" />
-</p>
+<div align="center">
+  <img src="banner.svg" alt="Anish Shirodkar Banner" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&center=true&vCenter=true&width=900&lines=Computer+Vision+%7C+RAG+Pipelines+%7C+LLM+Applications;Building+real-world+AI+systems+from+model+to+deployment;FastAPI+%7C+Next.js+%7C+PyTorch+%7C+ChromaDB+%7C+Docker;Open+to+Summer+2026+AI%2FML%2FNLP+Internships" />
-</p>
-
-<p align="center">
-  <a href="mailto:shirodkaranish3@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anish-shirodkar-a208452a9"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anishshirodkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="./divider.svg" width="100%" />
-</p>
-
----
+<br/>
+<img src="divider.svg" width="100%" />
 
 ## ✦ About
 
-I build production-ready AI systems that go beyond models into real, deployed products.
+I am an **AI/ML Engineer** and MS CS student at Rutgers University, focused on building production-ready AI systems that bridge the gap between complex models and real-world deployment. 
 
-My work focuses on:
-- Computer Vision systems with real-time inference
-- Retrieval-Augmented Generation pipelines
-- Full-stack LLM applications with deployed backends
+**🏆 Current Highlights:**
+* **Open Source:** Actively contributing to **DeepChem** (GSoC 2026 Applicant), integrating OLMo-7B LLMs into drug discovery pipelines.
+* **Research & IP:** Hold a registered patent (IP India, 2025) for an Attention-LSTM weather forecasting system built with the Indian Meteorological Department.
+* **Systems Engineering:** Building scalable RAG pipelines, full-stack LLM applications (Next.js/FastAPI), and real-time Computer Vision tracking systems.
 
-I design systems that combine ML models, APIs, and user-facing interfaces into scalable products.
-
----
-
-<p align="center">
-  <img src="./divider.svg" width="100%" />
-</p>
-
----
+<img src="divider.svg" width="100%" />
 
 ## ⚒ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,flask,docker,postgres,git,aws,firebase&perline=6" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFCE44?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA_3.1-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ByteTrack-111827?style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="./divider.svg" width="100%" />
-</p>
-
----
+<img src="divider.svg" width="100%" />
 
 ## ✨ Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./vtrack_card.svg" width="100%" />
-<br/><br/>
-
-### 🚗 VTrack  
-Real-Time Traffic Analysis  
-
-- ~25–30 FPS pipeline  
-- ~90–95% vehicle count accuracy  
-- YOLOv8 + ByteTrack  
-- Full-stack deployment  
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="./skillgap_card.svg" width="100%" />
-<br/><br/>
-
-### 🧠 SkillGap  
-AI Career Assistant  
-
-- Resume ↔ Job matching  
-- Multi-turn AI interview simulator  
-- Gemini + Next.js  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="./docpilot_card.svg" width="100%" />
-<br/><br/>
-
-### 📄 DocPilot  
-RAG Documentation Assistant  
-
-- 500+ pages indexed  
-- ChromaDB + LLaMA  
-- Grounded responses  
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="./weather_card.svg" width="100%" />
-<br/><br/>
-
-### 🌦 Weather System  
-Patent-backed ML System  
-
-- ~85% forecasting accuracy  
-- IoT → Cloud pipeline  
-- Government-recognized  
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="vtrack_card.svg" alt="VTrack" width="100%" />
+      <br/>
+      <b>🚗 VTrack (Real-Time Traffic Analysis)</b><br/>
+      • ~25–30 FPS pipeline<br/>
+      • ~90–95% vehicle count accuracy<br/>
+      • YOLOv8 + ByteTrack + FastAPI
+    </td>
+    <td width="50%" valign="top">
+      <img src="skillgap_card.svg" alt="SkillGap" width="100%" />
+      <br/>
+      <b>🧠 SkillGap (AI Career Assistant)</b><br/>
+      • Resume ↔ Job matching AI<br/>
+      • Multi-turn AI interview simulator<br/>
+      • Gemini API + Next.js + Supabase
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="docpilot_card.svg" alt="DocPilot" width="100%" />
+      <br/>
+      <b>📄 DocPilot (RAG System)</b><br/>
+      • 500+ pages indexed & chunked<br/>
+      • Grounded semantic retrieval<br/>
+      • ChromaDB + LLaMA + LangChain
+    </td>
+    <td width="50%" valign="top">
+      <img src="weather_card.svg" alt="Weather AI" width="100%" />
+      <br/>
+      <b>🌦 Weather AI (Forecasting System)</b><br/>
+      • <b>Patent-backed</b> ML System (IP India, 2025)<br/>
+      • IoT → Cloud data pipeline<br/>
+      • Attention-based LSTM Models
+    </td>
+  </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="./divider.svg" width="100%" />
-</p>
-
----
+<img src="divider.svg" width="100%" />
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anish0104&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish0104&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish0104&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Anish0104&theme=transparent&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="./divider.svg" width="100%" />
-</p>
-
----
+<img src="divider.svg" width="100%" />
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anish-shirodkar-a208452a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge"/>
-  </a>
-  <a href="https://anishshirodkar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge"/>
-  </a>
-  <a href="mailto:shirodkaranish3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-111827?style=for-the-badge"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anish-shirodkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://anishshirodkar.me/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
 
-
-<p align="center">
-  <strong>Building AI systems that actually ship.</strong>
-</p>
+<br/>
+<p align="center"><b>Building AI systems that actually ship.</b></p>
