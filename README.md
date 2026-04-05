@@ -13,7 +13,7 @@ I build end-to-end AI systems that go from models to deployed, production-ready 
 Focused on:
 * RAG pipelines and LLM applications  
 * Real-time computer vision systems  
-* Full-stack AI products  
+* Full-stack AI products. 
 
 Open-source contributor with **GSoC 2026 proposals**, including contributions to the **DeepChem** codebase.
 
